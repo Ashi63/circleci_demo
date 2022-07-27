@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="docker-heroku",
+    name="insurance-fraud",
     version="0.0.3",
     description="ML project",
-    author="Avnish yadav", 
+    author="Ashish Khobrgade", 
     packages=find_packages(),
     license="MIT"
 )
